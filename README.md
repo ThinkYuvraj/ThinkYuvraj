@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThinkYuvraj
 - 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning JAVA in DSA 
+- 🌱 I’m currently learning java cpp and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me though my Mail -Thinkyuvraj@gmail.com
 - ⚡ Fun fact: ...
