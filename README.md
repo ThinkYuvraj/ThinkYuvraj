@@ -1,62 +1,64 @@
-# 👋 Hi, I’m Yuvraj Singh (@ThinkYuvraj)
+# Hi, I'm Yuvraj Singh
 
-I’m an **aspiring engineer** passionate about **Web Development**, **Cloud Computing**, and building meaningful software solutions. Currently pursuing my **B.Tech in Computer Science Engineering at Amity University**.
-
----
-
-## 👀 Interests
-- Web Development (Frontend and Backend)
-- Cloud Computing (AWS Certified Practitioner)
-- Game Development (2D Puzzle Platformers)
-- Problem Solving and Algorithms
+Aspiring Software Engineer passionate about building scalable applications, intelligent systems, and impactful digital experiences.  
+Currently pursuing a Bachelor of Technology in Computer Science Engineering at Amity University, Noida.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Java** and **C++**
-- React, TypeScript
-- HTML5 Canvas / PixiJS
-- Software Engineering and Compiler Construction
+## About Me
+- Passionate about Software Development, Full-Stack Web Development, and Cloud Technologies
+- Strong interest in building real-world solutions through clean, scalable, and efficient code
+- Enthusiastic about solving complex technical challenges and continuously learning emerging technologies
 
 ---
 
-## 💻 Technical Skills
-- **Languages:** Python, C++, C, Java, JavaScript (HTML)
-- **DevOps & Cloud:** AWS, MongoDB, Git
-- **Specialization:** Cloud Computing Practitioner
-- **Frontend Tech:** React, TypeScript, HTML5 Canvas/PixiJS
+## Technical Skills
+- **Programming Languages:** Java, Python, JavaScript, TypeScript  
+- **Web Development:** HTML5, CSS, Tailwind CSS, React.js, Node.js, Express.js, Socket.IO  
+- **Databases:** MongoDB, SQL  
+- **Cloud & DevOps:** AWS (EC2, Lambda, S3, RDS, IAM, VPC), Docker  
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Maven  
 
 ---
 
-## 🧩 Projects & Work
-- 🎮 *Time and Rewind*: A 2D puzzle platformer game with global time-rewind mechanics, pixel-art visuals, and custom physics logic.  
-  - Features: Player movement, wall-clinging, time manipulation, glitch effects.  
-  - Built using React, TypeScript, HTML5 Canvas/PixiJS.
+## Featured Projects
 
-- 📱 *SocialeX*: App for social engagement, with ideation, planning, and frontend-backend design documentation.  
+### Weatherly – Hybrid Deep Learning Weather Forecasting System
+- Developed a hybrid weather forecasting model using stacked LSTM and GRU layers trained on climate datasets  
+- Achieved RMSE of 1.23 and MAE of 0.89 through optimized predictive modeling  
+- Integrated an AI-powered assistant for simplified, non-numerical weather insights  
 
-- 🏢 Volunteer: *Kind Beings NGO* (Dec 2024–Mar 2025).
-
----
-
-## 💼 Looking to Collaborate On
-- Web development projects
-- Cloud-based solutions
-- Game development or creative frontend experiences
+### Team Collaboration Workspace
+- Developed a real-time collaborative editing platform using Socket.IO  
+- Built scalable backend architecture with RESTful APIs and MongoDB integration  
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **Thinkyuvraj@gmail.com**
-- 📞 Phone: **+91 9639677118**
+## Currently Exploring
+- Advanced Java Backend Development
+- System Design and Scalable Architectures
+- Cloud Infrastructure and DevOps Practices
+- AI/ML Integration in Modern Applications
 
 ---
 
-## ⚡ Fun Fact
-I enjoy exploring new technologies, solving challenging problems, and bringing ideas to life through code.
+## Open to Collaborate On
+- Full-Stack Web Applications  
+- Software Development Projects  
+- Cloud-Based Solutions  
+- AI/ML Integrated Systems  
 
 ---
 
+## Connect With Me
+- **Email:** thinkyuvraj@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/yuvrajsingh1  
+- **GitHub:** https://github.com/ThinkYuvraj  
+
+---
+
+## Additional Information
+I enjoy transforming innovative ideas into practical software solutions and constantly exploring new technologies to improve my craft.
 <!---
 ThinkYuvraj/ThinkYuvraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
