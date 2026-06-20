@@ -1,6 +1,6 @@
 # Hi, I'm Yuvraj Singh
 
-[https://my-portfolio-jc50.onrender.com/](Click me)
+[View Portfolio](https://my-portfolio-jc50.onrender.com/)
 
 Aspiring Software Engineer passionate about building scalable applications, intelligent systems, and impactful digital experiences.  
 Currently pursuing a Bachelor of Technology in Computer Science Engineering at Amity University, Noida.
