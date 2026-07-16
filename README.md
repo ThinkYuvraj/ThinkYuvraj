@@ -16,6 +16,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 *   ⚡ **Drive:** I love transforming innovative ideas into practical, high-performance software solutions, resolving complex technical challenges, and continuously learning emerging tech stacks.
 
 ---
+--- ## 🤝 Open to Collaborate On * 💻 Full-Stack Web Applications * ⚙️ Core Software Development Projects * ☁️ Cloud-Based & Serverless Solutions * 🧠 AI/ML Integrated Systems & Intelligent Chatbots ---
 
 ## 🛠️ Technical Stack & Skills
 
