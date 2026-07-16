@@ -1,13 +1,15 @@
 # Hi there, I'm Yuvraj Singh 👋
 ### Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-[![GitHub Followers](https://img.shields.io/github/followers/ThinkYuvraj?label=Follow&style=social)](https://github.com/ThinkYuvraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/ThinkYuvraj?label=Follow&style=social)](https://github.com/ThinkYuvraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)*   
 
 ---
 
 ## 🚀 About Me
 
 I am a passionate **Software Engineer** and **Full-Stack Developer** currently pursuing a **Bachelor of Technology in Computer Science Engineering** at **Amity University, Noida** (2022 - 2026).
+
+🌐 **Portfolio Website:** [my-portfolio-jc50.onrender.com](https://my-portfolio-jc50.onrender.com/)
 
 *   💡 **My Focus:** Building scalable applications, intelligent systems, and impactful digital experiences using clean, efficient, and maintainable code.
 *   🧠 **Passion Areas:** Software development, Full-Stack Web Development, Distributed Cloud Computing, and Artificial Intelligence (AI/ML) integrations.
@@ -111,7 +113,6 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 *   📧 **Email:** [thinkyuvraj@gmail.com](mailto:thinkyuvraj@gmail.com)
 *   💼 **LinkedIn:** [linkedin.com/in/yuvrajsingh1](https://www.linkedin.com/in/yuvrajsingh1)
 *   🐙 **GitHub:** [github.com/ThinkYuvraj](https://github.com/ThinkYuvraj)
-*   🌐 **Portfolio Website:** [my-portfolio-jc50.onrender.com](https://my-portfolio-jc50.onrender.com/)
 
 ---
 
