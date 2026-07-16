@@ -73,9 +73,9 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 
 ### **Education**
 
-*   **B.Tech. in Computer Science Engineering** | Amity University, Noida (2022 - 2026) — *CGPA: 7.3/10*
-*   **CBSE XII (Senior Secondary)** | Delhi Public School, Meerut (2022) — *Score: 83.98%*
-*   **CBSE X (Secondary)** | Delhi Public School, Meerut (2020) — *Score: 72.96%*
+*   **B.Tech. in Computer Science Engineering** | Amity University, Noida (2022 - 2026) 
+*   **CBSE XII (Senior Secondary)** | Delhi Public School, Meerut (2022)
+*   **CBSE X (Secondary)** | Delhi Public School, Meerut (2020)
 
 ### **Research Publications**
 
@@ -107,13 +107,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=tokyonight&hide_border=true" />
 </p>
---- 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ThinkYuvraj&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 ---
 
 ## 📈 Contribution Graph
@@ -121,21 +115,6 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=tokyo-night&hide_border=true" />
 </p>
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
