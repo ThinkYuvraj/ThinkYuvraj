@@ -1,7 +1,7 @@
 # Hi there, I'm Yuvraj Singh 👋
 ### Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-[![GitHub Followers](https://img.shields.io/github/followers/ThinkYuvraj?label=Follow&style=social)](https://github.com/ThinkYuvraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)*   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)*   
 
 ---
 
@@ -87,6 +87,55 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 *   🍃 **MongoDB Certified Developer Path** – MongoDB Developer Academy (Jun 2025)
 *   💡 **Design Thinking: A Primer** – NPTEL | IIT Madras (Feb 2024)
 *   🐍 **Joy of Computing using Python** – NPTEL | IIT Ropar (Oct 2024)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThinkYuvraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkYuvraj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=tokyonight&hide_border=true" />
+</p>
+--- 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ThinkYuvraj&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ThinkYuvraj/ThinkYuvraj/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
