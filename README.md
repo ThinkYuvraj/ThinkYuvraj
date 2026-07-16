@@ -102,6 +102,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -124,15 +125,6 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 *   📐 System Design & Highly Scalable Architectures
 *   🏗️ Cloud Infrastructure & DevOps CI/CD Practices
 *   🤖 Integrating Generative AI & Large Language Models in web applications
-
----
-
-## 🤝 Open to Collaborate On
-
-*   💻 Full-Stack Web Applications
-*   ⚙️ Core Software Development Projects
-*   ☁️ Cloud-Based & Serverless Solutions
-*   🧠 AI/ML Integrated Systems & Intelligent Chatbots
 
 ---
 
