@@ -5,11 +5,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me | 🌐 **Portfolio Website:** [my-portfolio-jc50.onrender.com](https://my-portfolio-jc50.onrender.com/)
 
 I am a passionate **Software Engineer** and **Full-Stack Developer** currently pursuing a **Bachelor of Technology in Computer Science Engineering** at **Amity University, Noida** (2022 - 2026).
-
-🌐 **Portfolio Website:** [my-portfolio-jc50.onrender.com](https://my-portfolio-jc50.onrender.com/)
 
 *   💡 **My Focus:** Building scalable applications, intelligent systems, and impactful digital experiences using clean, efficient, and maintainable code.
 *   🧠 **Passion Areas:** Software development, Full-Stack Web Development, Distributed Cloud Computing, and Artificial Intelligence (AI/ML) integrations.
