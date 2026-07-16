@@ -51,7 +51,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 
 ## 📈 Featured Projects
 
-### 🌡️ **Weatherly** – *Hybrid Deep Learning Weather Forecasting System*
+### **Weatherly** – *Hybrid Deep Learning Weather Forecasting System*
 
 *   **Description:** A hybrid weather forecasting model utilizing stacked **LSTM** and **GRU** recurrent neural network layers trained on climate datasets to capture long-term and short-term patterns.
 *   **Key Accomplishments:**
@@ -59,7 +59,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
     *   Integrated a Generative AI-powered chatbot assistant (utilizing Gemini API) that translates raw forecasting data into simplified, non-numerical natural-language weather insights.
 *   **Tech Stack:** `Python`, `TensorFlow/Keras`, `Streamlit`, `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Gemini API`
 
-### 🤝 **Team Collaboration Workspace** – *Real-time Collaborative Editing Platform*
+### **Team Collaboration Workspace** – *Real-time Collaborative Editing Platform*
 
 *   **Description:** A high-performance, real-time web workspace designed for simultaneous document edits, canvas whiteboard drawings, and group chats.
 *   **Key Accomplishments:**
@@ -67,7 +67,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
     *   Built a highly scalable backend architecture utilizing RESTful APIs, Node.js, and MongoDB.
 *   **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `Socket.IO`, `MongoDB`, `Tailwind CSS`
 
-### 📋 **Team Task Manager** – *Full-Stack Project Management Portal*
+### **Team Task Manager** – *Full-Stack Project Management Portal*
 
 *   **Description:** A project management tool designed to help software engineering squads coordinate sprints, assign tasks, and monitor pipeline analytics.
 *   **Key Accomplishments:**
