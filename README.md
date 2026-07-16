@@ -17,7 +17,7 @@ I am a passionate **Software Engineer** and **Full-Stack Developer** currently p
 
 ---
 
---- ## 🤝 Open to Collaborate On
+## 🤝 Open to Collaborate On
 * 💻 Full-Stack Web Applications
 * ⚙️ Core Software Development Projects
 * ☁️ Cloud-Based & Serverless Solutions
