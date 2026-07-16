@@ -14,7 +14,7 @@ I am a passionate  **Full-Stack Developer** and **Software Engineer** currently 
 *   💡 **My Focus:** Building scalable applications, intelligent systems, and impactful digital experiences using clean, efficient, and maintainable code.
 *   🧠 **Passion Areas:** Software development, Full-Stack Web Development, Distributed Cloud Computing, and Artificial Intelligence (AI/ML) integrations.
 *   ⚡ **Drive:** I love transforming innovative ideas into practical, high-performance software solutions, resolving complex technical challenges, and continuously learning emerging tech stacks.
-*   
+  
 ---
 
 ## 🤝 Open to Collaborate On
