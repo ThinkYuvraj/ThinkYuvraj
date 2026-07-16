@@ -1,7 +1,7 @@
 # Hi there, I'm Yuvraj Singh 👋
 ### Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)*   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)
 
 ---
 
