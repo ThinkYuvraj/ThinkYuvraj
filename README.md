@@ -116,7 +116,6 @@ I am a passionate  **Full-Stack Developer** and **Software Engineer** currently 
 
 ## 🔍 Currently Exploring
 
-*   ☕ Advanced Java Backend Development (Enterprise Systems, Spring Boot)
 *   📐 System Design & Highly Scalable Architectures
 *   🏗️ Cloud Infrastructure & DevOps CI/CD Practices
 *   🤖 Integrating Generative AI & Large Language Models in web applications
