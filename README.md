@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Cloud%2F20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Turning+ideas+into+working+software;Exploring+AI%2FML+%2B+Cloud+%2B+System+Design;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
 
@@ -25,11 +25,11 @@
 Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*.
 
 ```yaml
-👤 name:      Yuvraj Singh
-🎯 focus:     Scalable applications · Intelligent systems · Impactful digital experiences
-💡 passions:  Full-Stack Web Dev · Distributed Cloud Computing · AI/ML Integrations
-⚡ drive:     Turning innovative ideas into practical, high-performance software
-📍 based:     Noida, India
+👤 Name:      Yuvraj Singh
+🎯 Focus:     Scalable applications · Intelligent systems · Impactful digital experiences
+💡 Passions:  Full-Stack Web Dev · Distributed Cloud Computing · AI/ML Integrations
+⚡ Drive:     Turning innovative ideas into practical, high-performance software
+📍 Based:     Noida, India
 ```
 
 <br/>
@@ -38,10 +38,10 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 
 <div align="center">
 
-| 💻 | ⚙️ | ☁️ | 🧠 |
-|:---:|:---:|:---:|:---:|
-| **Full-Stack Web Apps** | **Core Software Dev** | **Cloud & Serverless** | **AI/ML Systems** |
-| End-to-end products, DB to UI | Clean, maintainable architecture | Scalable infra design | Intelligent chatbots & data features |
+| 💻 | ⚙️ | ☁️ |
+|:---:|:---:|:---:|
+| **Full-Stack Web Apps** | **Core Software Dev** | **Cloud & Serverless** |
+| End-to-end products, DB to UI | Clean, maintainable architecture | Scalable infra design |
 
 </div>
 
