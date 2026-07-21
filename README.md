@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Turning+ideas+into+working+software;Exploring+AI%2FML+%2B+Cloud+%2B+System+Design;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Turning+ideas+into+working+software;Exploring+Cloud+%2B+System+Design;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
 
 <br/>
 
@@ -22,12 +22,16 @@
 
 ## 🚀 About Me
 
-Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*.
+<div align="justify">
+
+Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
+
+</div>
 
 ```yaml
 👤 Name:      Yuvraj Singh
-🎯 Focus:     Scalable applications · Intelligent systems · Impactful digital experiences
-💡 Passions:  Full-Stack Web Dev · Distributed Cloud Computing · AI/ML Integrations
+🎯 Focus:     Scalable applications · Impactful digital experiences
+💡 Passions:  Full-Stack Web Dev · Distributed Cloud Computing
 ⚡ Drive:     Turning innovative ideas into practical, high-performance software
 📍 Based:     Noida, India
 ```
@@ -36,53 +40,33 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 
 ## 🤝 Open to Collaborate On
 
-<div align="center">
-
-| 💻 | ⚙️ | ☁️ |
-|:---:|:---:|:---:|
-| **Full-Stack Web Apps** | **Core Software Dev** | **Cloud & Serverless** |
-| End-to-end products, DB to UI | Clean, maintainable architecture | Scalable infra design |
-
-</div>
+| | |
+|---|---|
+| 💻 **Full-Stack Web Applications** | End-to-end products, from database to UI |
+| ⚙️ **Core Software Development** | Clean, maintainable, well-architected systems |
+| ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-
-<h4>Languages</h4>
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
 
-<h4>Web & Backend</h4>
+**Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-<h4>Databases</h4>
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-<h4>Cloud, DevOps & Tools</h4>
+**Cloud, DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,idea,maven&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Proficiency Snapshot**
-
-`Full-Stack Development ` ████████████████████░░░ 85%
-`AI/ML Integration       ` ███████████████░░░░░░░░ 65%
-`Cloud & DevOps          ` █████████████░░░░░░░░░░ 55%
-`System Design           ` ████████████░░░░░░░░░░░ 50%
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -95,8 +79,11 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 <i>Hybrid Deep Learning Weather Forecasting</i>
 <br/><br/>
 
-Stacked **LSTM/GRU** neural network trained on climate data — **RMSE 1.23**, **MAE 0.89** over 50 epochs. Includes a Gemini-powered chatbot translating raw forecasts into natural language.
+<div align="justify">
 
+Stacked **LSTM/GRU** neural network trained on climate data — **RMSE 1.23**, **MAE 0.89** over 50 epochs, forecasting short and long-term weather patterns.
+
+</div>
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -109,8 +96,11 @@ Stacked **LSTM/GRU** neural network trained on climate data — **RMSE 1.23**, *
 <i>Real-time Collaborative Editing Platform</i>
 <br/><br/>
 
+<div align="justify">
+
 Simultaneous document edits, whiteboard drawing, and group chat with instant sync via **Socket.IO**, backed by a scalable REST API.
 
+</div>
 <br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -123,8 +113,11 @@ Simultaneous document edits, whiteboard drawing, and group chat with instant syn
 <i>Full-Stack Project Management Portal</i>
 <br/><br/>
 
-Sprint coordination, task assignment, and pipeline analytics with role-based dashboards and AI-driven prioritization.
+<div align="justify">
 
+Sprint coordination, task assignment, and pipeline analytics with role-based dashboards and visual workflow boards.
+
+</div>
 <br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -149,8 +142,12 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 - 📗 **CBSE X** — Delhi Public School, Meerut `2020`
 
 ### 📄 Research
-**"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in ML"**
-Accepted & presented at **IEEE/NIT Delhi IC2SDT 2025**
+
+<div align="justify">
+
+**"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in ML"** — Accepted & presented at **IEEE/NIT Delhi IC2SDT 2025**.
+
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -192,23 +189,22 @@ Accepted & presented at **IEEE/NIT Delhi IC2SDT 2025**
 
 ## 🔍 Currently Exploring
 
-<div align="center">
-
-📐 **System Design** &nbsp;·&nbsp; 🏗️ **Cloud & DevOps (CI/CD)** &nbsp;·&nbsp; 🤖 **Generative AI & LLM Integrations**
-
-</div>
+- 📐 **System Design** & Highly Scalable Architectures
+- 🏗️ **Cloud & DevOps** — CI/CD Practices
 
 <br/>
 
 ## 🔗 Let's Connect
 
+<div align="justify">
+
+📧 **Email:** [thinkyuvraj@gmail.com](mailto:thinkyuvraj@gmail.com) &nbsp;·&nbsp; 💼 **LinkedIn:** [linkedin.com/in/yuvrajsingh1](https://www.linkedin.com/in/yuvrajsingh1) &nbsp;·&nbsp; 🐙 **GitHub:** [github.com/ThinkYuvraj](https://github.com/ThinkYuvraj)
+
+</div>
+
+<br/>
+
 <div align="center">
-
-<a href="mailto:thinkyuvraj@gmail.com"><img src="https://img.shields.io/badge/-thinkyuvraj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yuvrajsingh1"><img src="https://img.shields.io/badge/-linkedin.com%2Fin%2Fyuvrajsingh1-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ThinkYuvraj"><img src="https://img.shields.io/badge/-github.com%2FThinkYuvraj-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 ### *"Transforming innovative ideas into scalable, practical software solutions."*
 
@@ -217,5 +213,3 @@ Accepted & presented at **IEEE/NIT Delhi IC2SDT 2025**
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>
-
-
