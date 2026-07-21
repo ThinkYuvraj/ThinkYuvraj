@@ -42,9 +42,10 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 | ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-## 🛠️ Technical Arsenal
 
-**Programming Languages**
+<br/>
+
+## 🛠️Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
 
@@ -52,13 +53,12 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Web Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
+
 <br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 **Cloud / DevOps**
 
@@ -72,17 +72,18 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,jupyter,linux,npm,yarn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,npm,yarn&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 
 **AI Tools / CLI**
-
+<div>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<span>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
+</span>
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📈 Featured Projects
@@ -117,7 +118,7 @@ Simultaneous document edits, whiteboard drawing, and group chat with instant syn
 
 </div>
 <br/>
-
+<br/>
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -139,6 +140,7 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -153,33 +155,47 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 <td valign="top">
 
 ### 🏫 Education
-- 🎓 **B.Tech CSE** — Amity University, Noida `2022–2026`
-- 📘 **CBSE XII** — Delhi Public School, Meerut `2022`
-- 📗 **CBSE X** — Delhi Public School, Meerut `2020`
+<table>
+<tr>
+<td valign="top">
+
+### 🎓 Education
+
+- 🎓 **B.Tech in Computer Science & Engineering** — Amity University, Noida `2022–2026`
+- 📘 **CBSE Class XII** — Delhi Public School, Meerut `2022`
+- 📗 **CBSE Class X** — Delhi Public School, Meerut `2020`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🏆 Certifications
+
+- ☁️ **AWS Academy Cloud Foundations** `Jan 2025`
+- 🍃 **MongoDB Certified Developer Path** `Jun 2025`
+- 💡 **Design Thinking: A Primer** — IIT Madras `Feb 2024`
+- 🐍 **The Joy of Computing using Python** — IIT Ropar `Oct 2024`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 📄 Research
 
 <div align="justify">
 
-**"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in ML"** — Accepted & presented at **IEEE/NIT Delhi IC2SDT 2025**.
+**"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"**  
+**Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025**
 
 </div>
 
 </td>
 </tr>
-<tr>
-<td valign="top">
-
-### 🏆 Certifications
-- ☁️ **AWS Academy Cloud Foundations** `Jan 2025`
-- 🍃 **MongoDB Certified Developer Path** `Jun 2025`
-- 💡 **Design Thinking: A Primer** — IIT Madras `Feb 2024`
-- 🐍 **Joy of Computing using Python** — IIT Ropar `Oct 2024`
-
-</td>
-</tr>
 </table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🔥 GitHub Analytics
