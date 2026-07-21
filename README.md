@@ -28,11 +28,28 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 🤝 Open to Collaborate On
 
-| Topic | Description |
-|---|---|
-| 💻 **Full-Stack Web Applications** | End-to-end products, from database to UI |
-| ⚙️ **Core Software Development** | Clean, maintainable, well-architected systems |
-| ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
+<table width="100%" style="background-color: #000000; border-collapse: collapse; border: 1px solid #30363d;">
+  <thead>
+    <tr align="left" style="background-color: #000000;">
+      <th width="35%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Topic</th>
+      <th width="65%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">💻 <b>Full-Stack Web Applications</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">End-to-end products, from database to UI</td>
+    </tr>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">⚙️ <b>Core Software Development</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">Clean, maintainable, well-architected systems</td>
+    </tr>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">☁️ <b>Cloud-Based & Serverless Solutions</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">Scalable infrastructure design</td>
+    </tr>
+  </tbody>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -63,49 +80,49 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 📈 Featured Projects
 
-<table width="100%">
+<table width="100%" style="background-color: #000000; border-collapse: collapse; border: 1px solid #30363d;">
   <thead>
-    <tr align="left">
-      <th width="25%">Project</th>
-      <th width="55%">Description & Key Features</th>
-      <th width="20%">Tech Stack</th>
+    <tr align="left" style="background-color: #000000;">
+      <th width="25%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Project</th>
+      <th width="55%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Description & Key Features</th>
+      <th width="20%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>🌦️ Weatherly</b><br/><i>Hybrid Deep Learning</i></td>
-      <td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>🌦️ Weatherly</b><br/><i>Hybrid Deep Learning</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <div align="justify">
           Stacked <b>LSTM/GRU</b> neural network trained on climate data — achieved <b>RMSE 1.23</b> and <b>MAE 0.89</b> over 50 epochs, predicting short- and long-term weather patterns with high accuracy.
         </div>
       </td>
-      <td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
       </td>
     </tr>
-    <tr>
-      <td><b>🤝 Team Workspace</b><br/><i>Real-time Collaboration</i></td>
-      <td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>🤝 Team Workspace</b><br/><i>Real-time Collaboration</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <div align="justify">
           Simultaneous document editing, dynamic whiteboard drawing, and unified group chat. Features real-time state synchronization powered by <b>Socket.IO</b> and a robust REST API.
         </div>
       </td>
-      <td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       </td>
     </tr>
-    <tr>
-      <td><b>📋 Task Manager</b><br/><i>Full-Stack PM Portal</i></td>
-      <td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>📋 Task Manager</b><br/><i>Full-Stack PM Portal</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <div align="justify">
           End-to-end sprint coordination, automated task assignments, and visual pipeline analytics. Features role-based dashboards and interactive Kanban-style workflow boards.
         </div>
       </td>
-      <td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /><br/>
@@ -119,52 +136,52 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 🎓 Education & Certifications
 
-<table width="100%">
+<table width="100%" style="background-color: #000000; border-collapse: collapse; border: 1px solid #30363d;">
   <thead>
-    <tr align="left">
-      <th width="25%">Category</th>
-      <th width="55%">Details & Institution</th>
-      <th width="20%">Timeline</th>
+    <tr align="left" style="background-color: #000000;">
+      <th width="25%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Category</th>
+      <th width="55%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Details & Institution</th>
+      <th width="20%" style="background-color: #000000; color: #ffffff; border: 1px solid #30363d; padding: 8px;">Timeline</th>
     </tr>
   </thead>
   <tbody>
     <!-- Education Section -->
-    <tr>
-      <td rowspan="3" valign="top"><b>🏫 Education</b></td>
-      <td>🎓 <b>B.Tech in Computer Science &amp; Engineering</b><br/><i>Amity University, Noida</i></td>
-      <td><code>2022 – 2026</code></td>
+    <tr style="background-color: #000000;">
+      <td rowspan="3" valign="top" style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>🏫 Education</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">🎓 <b>B.Tech in Computer Science &amp; Engineering</b><br/><i>Amity University, Noida</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>2022 – 2026</code></td>
     </tr>
-    <tr>
-      <td>📘 <b>CBSE Class XII</b><br/><i>Delhi Public School, Meerut</i></td>
-      <td><code>2022</code></td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">📘 <b>CBSE Class XII</b><br/><i>Delhi Public School, Meerut</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>2022</code></td>
     </tr>
-    <tr>
-      <td>📗 <b>CBSE Class X</b><br/><i>Delhi Public School, Meerut</i></td>
-      <td><code>2020</code></td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">📗 <b>CBSE Class X</b><br/><i>Delhi Public School, Meerut</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>2020</code></td>
     </tr>
     <!-- Research Section -->
-    <tr>
-      <td valign="top"><b>📄 Research</b></td>
-      <td>📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b><br/><i>Accepted &amp; Presented at IEEE/NIT Delhi IC2SDT 2025</i></td>
-      <td><code>2025</code></td>
+    <tr style="background-color: #000000;">
+      <td valign="top" style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>📄 Research</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b><br/><i>Accepted &amp; Presented at IEEE/NIT Delhi IC2SDT 2025</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>2025</code></td>
     </tr>
     <!-- Certifications Section -->
-    <tr>
-      <td rowspan="4" valign="top"><b>🏆 Certifications</b></td>
-      <td>☁️ <b>AWS Academy Cloud Foundations</b><br/><i>AWS Academy</i></td>
-      <td><code>Jan 2025</code></td>
+    <tr style="background-color: #000000;">
+      <td rowspan="4" valign="top" style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><b>🏆 Certifications</b></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">☁️ <b>AWS Academy Cloud Foundations</b><br/><i>AWS Academy</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>Jan 2025</code></td>
     </tr>
-    <tr>
-      <td>🍃 <b>MongoDB Certified Developer Path</b><br/><i>MongoDB</i></td>
-      <td><code>Jun 2025</code></td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">🍃 <b>MongoDB Certified Developer Path</b><br/><i>MongoDB</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>Jun 2025</code></td>
     </tr>
-    <tr>
-      <td>💡 <b>Design Thinking: A Primer</b><br/><i>IIT Madras</i></td>
-      <td><code>Feb 2024</code></td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">💡 <b>Design Thinking: A Primer</b><br/><i>IIT Madras</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>Feb 2024</code></td>
     </tr>
-    <tr>
-      <td>🐍 <b>The Joy of Computing using Python</b><br/><i>IIT Ropar</i></td>
-      <td><code>Oct 2024</code></td>
+    <tr style="background-color: #000000;">
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;">🐍 <b>The Joy of Computing using Python</b><br/><i>IIT Ropar</i></td>
+      <td style="background-color: #000000; border: 1px solid #30363d; padding: 8px;"><code>Oct 2024</code></td>
     </tr>
   </tbody>
 </table>
@@ -211,3 +228,4 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 </div>
+
