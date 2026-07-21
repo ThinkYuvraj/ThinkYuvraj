@@ -191,9 +191,6 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 ## 🔥 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThinkYuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkYuvraj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" width="42%" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6" width="65%" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%" />
