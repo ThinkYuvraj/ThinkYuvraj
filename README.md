@@ -1,8 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YUVRAJ%20SINGH&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=%3C%20FULL-STACK%20ENGINEER%20/%20AI-ML%20DEVELOPER%20%3E&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=root%40yuvraj+~+%23+whoami;full-stack+developer+%7C+ai-ml+enthusiast;status%3A+online+_" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+booting_developer.exe...;%3E+compiling+full-stack+systems;%3E+training+neural+networks;%3E+deploying+to+the+cloud;%3E+status%3A+ONLINE" alt="Typing SVG" />
+</div>
+
+```text
+┌──[ yuvraj@github ]──[ ~/profile.md ]──────────────────────────────────
+│
+│        .-=========-.       whoami     : yuvraj_singh
+│      .-'   .---.   '-.     role       : Full-Stack Developer / SWE
+│     /    .'  o  '.    \    education  : B.Tech CSE, Amity University
+│    |    /  ◉   ◉  \    |   timeline   : 2022 -> 2026
+│    |   |    ___    |   |   languages  : Java, Python, JS, TypeScript
+│    |   |   '---'   |   |   frontend   : React, Tailwind, HTML/CSS
+│     \   \_________/   /    backend    : Node.js, Express, Socket.IO
+│      '-.           .-'     database   : MongoDB, SQL
+│        '-=========-'       cloud      : AWS, Docker, Git
+│       _|  |  |  |  |_      focus      : AI/ML integration, Cloud systems
+│      |__|__|__|__|__|      status     : Open to collaborate
+│      |  TERMINAL.OS  |     email      : thinkyuvraj@gmail.com
+│      |_______________|
+│        /|         |\
+│       / |         | \
+│      /__|_________|__\
+│
+└─[ status: online ]───────────────────────────────────────────────────
+```
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29)](https://linkedin.com/in/yuvrajsingh1)
 [![Email](https://img.shields.io/badge/EMAIL-FF00E4?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29)](mailto:thinkyuvraj@gmail.com)
@@ -13,37 +38,22 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## `01` // ABOUT_ME.sys
+### `[ collab_protocols ]`
 
-```yaml
-identity:    Full-Stack Developer & Software Engineer
-university:  Amity University, Noida [2022 -> 2026]
-degree:      B.Tech, Computer Science Engineering
-focus:       Scalable systems | AI/ML integration | Cloud architecture
-directive:   "Transforming innovative ideas into scalable, practical software solutions."
+```text
+┌─────────────────┬──────────────────────┬────────────────────┬──────────────────────┐
+│  WEB_APPS       │  CORE_DEV            │  CLOUD_OPS         │  AI_SYSTEMS          │
+├─────────────────┼──────────────────────┼────────────────────┼──────────────────────┤
+│  Full-Stack     │  SWE Projects        │  Serverless &      │  AI/ML Chatbots &    │
+│  Applications   │                      │  Cloud Solutions   │  Intelligent Systems │
+└─────────────────┴──────────────────────┴────────────────────┴──────────────────────┘
 ```
 
-- 💡 **Core Loop:** Building scalable applications, intelligent systems, and impactful digital experiences with clean, maintainable code.
-- 🧠 **Signal:** Full-stack web development, distributed cloud computing, AI/ML integrations.
-- ⚡ **Drive:** Turning ideas into practical, high-performance software — one debug cycle at a time.
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## `02` // COLLAB_PROTOCOLS.exe
-
-<div align="center">
-
-| 💻 `WEB_APPS` | ⚙️ `CORE_DEV` | ☁️ `CLOUD_OPS` | 🧠 `AI_SYSTEMS` |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Applications | Software Engineering Projects | Serverless & Cloud-Based Solutions | AI/ML Chatbots & Intelligent Systems |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## `03` // TECH_STACK.config
+### `[ tech_stack ]`
 
 **LANGUAGES**
 
@@ -80,11 +90,11 @@ directive:   "Transforming innovative ideas into scalable, practical software so
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=00F5FF&labelColor=0f0c29)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0f0c29)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## `04` // DEPLOYED_PROJECTS.log
+### `[ deployed_projects ]`
 
-### 🌦️ `WEATHERLY` — Hybrid Deep Learning Weather Forecasting System
+**`WEATHERLY`** — Hybrid Deep Learning Weather Forecasting System
 
 Stacked **LSTM** + **GRU** recurrent neural network layers trained on climate datasets to capture long-term and short-term weather patterns.
 
@@ -95,7 +105,7 @@ Stacked **LSTM** + **GRU** recurrent neural network layers trained on climate da
 
 `Python` `TensorFlow/Keras` `Streamlit` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Gemini API`
 
-### 🧑‍🤝‍🧑 `TEAM COLLABORATION WORKSPACE` — Real-Time Collaborative Editing Platform
+**`TEAM COLLABORATION WORKSPACE`** — Real-Time Collaborative Editing Platform
 
 A high-performance real-time workspace for simultaneous document edits, canvas whiteboard drawings, and group chats.
 
@@ -106,7 +116,7 @@ A high-performance real-time workspace for simultaneous document edits, canvas w
 
 `React.js` `Node.js` `Express.js` `Socket.IO` `MongoDB` `Tailwind CSS`
 
-### 📋 `TEAM TASK MANAGER` — Full-Stack Project Management Portal
+**`TEAM TASK MANAGER`** — Full-Stack Project Management Portal
 
 Helps engineering teams coordinate sprints, assign tasks, and monitor pipeline analytics.
 
@@ -117,40 +127,42 @@ Helps engineering teams coordinate sprints, assign tasks, and monitor pipeline a
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Socket.IO`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## `05` // CREDENTIALS.db
+### `[ credentials ]`
 
-**EDUCATION**
+```text
+EDUCATION
+─────────────────────────────────────────────────────────────────
+B.Tech, Computer Science Engineering | Amity University   2022-2026
+CBSE XII (Senior Secondary)          | DPS, Meerut               2022
+CBSE X (Secondary)                   | DPS, Meerut               2020
 
-| Degree | Institution | Timeline |
-|---|---|---|
-| B.Tech, Computer Science Engineering | Amity University, Noida | `2022 → 2026` |
-| CBSE XII (Senior Secondary) | Delhi Public School, Meerut | `2022` |
-| CBSE X (Secondary) | Delhi Public School, Meerut | `2020` |
+RESEARCH
+─────────────────────────────────────────────────────────────────
+"A Novice Approach to Weather Forecasting Using Hybrid
+Predictive Methodologies in Machine Learning"
+-> Accepted & presented at IEEE/NIT Delhi IC2SDT 2025
 
-**RESEARCH PUBLICATION**
+CERTIFICATIONS
+─────────────────────────────────────────────────────────────────
+[x] AWS Academy Cloud Foundations         - AWS Academy   (Jan 2025)
+[x] MongoDB Certified Developer Path      - MongoDB Univ. (Jun 2025)
+[x] Design Thinking: A Primer             - NPTEL/IIT-M   (Feb 2024)
+[x] Joy of Computing using Python         - NPTEL/IIT-R   (Oct 2024)
+```
 
-📄 *"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"* — accepted and presented at the **IEEE/NIT Delhi IC2SDT 2025 Conference**.
+---
 
-**CERTIFICATIONS**
-
-- ☁️ **AWS Academy Cloud Foundations** — AWS Academy Graduate `[Jan 2025]`
-- 🍃 **MongoDB Certified Developer Path** — MongoDB Developer Academy `[Jun 2025]`
-- 💡 **Design Thinking: A Primer** — NPTEL, IIT Madras `[Feb 2024]`
-- 🐍 **Joy of Computing using Python** — NPTEL, IIT Ropar `[Oct 2024]`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-## `06` // NEXT_MODULES.queue
+### `[ next_modules.queue ]`
 
 - 📐 System design and highly scalable architectures
 - 🏗️ Cloud infrastructure and DevOps CI/CD practices
 - 🤖 Integrating generative AI and LLMs into web applications
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## `07` // SYSTEM_METRICS.live
+### `[ system_metrics.live ]`
 
 <div align="center">
 
@@ -163,9 +175,9 @@ Helps engineering teams coordinate sprints, assign tasks, and monitor pipeline a
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+---
 
-## `08` // CONNECT.transmit
+### `[ connect.transmit ]`
 
 <div align="center">
 
@@ -173,9 +185,7 @@ Helps engineering teams coordinate sprints, assign tasks, and monitor pipeline a
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29)](https://www.linkedin.com/in/yuvrajsingh1)
 [![GitHub](https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29)](https://github.com/ThinkYuvraj)
 
-**`" TRANSFORMING INNOVATIVE IDEAS INTO SCALABLE, PRACTICAL SOFTWARE SOLUTIONS. "`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+**`"TRANSFORMING INNOVATIVE IDEAS INTO SCALABLE, PRACTICAL SOFTWARE SOLUTIONS."`**
 
 </div>
 
