@@ -69,45 +69,55 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 ## 📈 Featured Projects
 
 <table width="100%">
-<tr>
-<td width="33%" valign="top">
-  <h3>🌦️ Weatherly</h3>
-  <i>Hybrid Deep Learning Weather Forecasting</i>
-  <br/><br/>
-  <div align="justify">
-    Stacked <b>LSTM/GRU</b> neural network trained on climate data — <b>RMSE 1.23</b>, <b>MAE 0.89</b> over 50 epochs, forecasting short and long-term weather patterns.
-  </div>
-  <br/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-</td>
-<td width="33%" valign="top">
-  <h3>🤝 Team Workspace</h3>
-  <i>Real-time Collaborative Editing Platform</i>
-  <br/><br/>
-  <div align="justify">
-    Simultaneous document edits, whiteboard drawing, and group chat with instant sync via <b>Socket.IO</b>, backed by a scalable REST API.
-  </div>
-  <br/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
-</td>
-<td width="33%" valign="top">
-  <h3>📋 Task Manager</h3>
-  <i>Full-Stack Project Management Portal</i>
-  <br/><br/>
-  <div align="justify">
-    Sprint coordination, task assignment, and pipeline analytics with role-based dashboards and visual workflow boards.
-  </div>
-  <br/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
-</td>
-</tr>
+  <thead>
+    <tr align="left">
+      <th width="25%">Project</th>
+      <th width="55%">Description & Key Features</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🌦️ Weatherly</b><br/><i>Hybrid Deep Learning</i></td>
+      <td>
+        <div align="justify">
+          Stacked <b>LSTM/GRU</b> neural network trained on climate data — achieved <b>RMSE 1.23</b> and <b>MAE 0.89</b> over 50 epochs, predicting short- and long-term weather patterns with high accuracy.
+        </div>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🤝 Team Workspace</b><br/><i>Real-time Collaboration</i></td>
+      <td>
+        <div align="justify">
+          Simultaneous document editing, dynamic whiteboard drawing, and unified group chat. Features real-time state synchronization powered by <b>Socket.IO</b> and a robust REST API.
+        </div>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /><br/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>📋 Task Manager</b><br/><i>Full-Stack PM Portal</i></td>
+      <td>
+        <div align="justify">
+          End-to-end sprint coordination, automated task assignments, and visual pipeline analytics. Features role-based dashboards and interactive Kanban-style workflow boards.
+        </div>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /><br/>
+        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
