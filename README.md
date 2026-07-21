@@ -187,9 +187,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 🔗 Let's Connect
 
-<div align="justify">
-  📧 <b>Email:</b> <a href="mailto:thinkyuvraj@gmail.com">thinkyuvraj@gmail.com</a> &nbsp;·&nbsp;
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yuvrajsingh1" target="_blank">linkedin.com/in/yuvrajsingh1</a> &nbsp;·&nbsp;
+<div align="center">
+  📧 <b>Email:</b> <a href="mailto:thinkyuvraj@gmail.com">thinkyuvraj@gmail.com </a> &nbsp;|&nbsp; 
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yuvrajsingh1" target="_blank">linkedin.com/in/yuvrajsingh1</a> &nbsp;|&nbsp;
   🐙 <b>GitHub:</b> <a href="https://github.com/ThinkYuvraj" target="_blank">github.com/ThinkYuvraj</a>
 </div>
 
