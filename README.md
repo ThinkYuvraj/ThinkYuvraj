@@ -11,6 +11,11 @@
 <a href="mailto:thinkyuvraj@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ThinkYuvraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -83,8 +88,6 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blackbox-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
 
 **Core Concepts**
 
@@ -142,7 +145,6 @@ Simultaneous document edits, whiteboard drawing, and group chat with instant syn
 Sprint coordination, task assignment, and pipeline analytics with role-based dashboards and visual workflow boards.
 
 </div>
-<br/>
 <br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -235,11 +237,9 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 
 ### *"Transforming innovative ideas into scalable, practical software solutions."*
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>
+
