@@ -176,9 +176,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
  
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <br/> 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🔗 Let's Connect
 
