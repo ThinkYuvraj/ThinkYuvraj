@@ -129,7 +129,7 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🏫 Education
 - 🎓 **B.Tech CSE** — Amity University, Noida `2022–2026`
@@ -145,7 +145,9 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 </div>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 ### 🏆 Certifications
 - ☁️ **AWS Academy Cloud Foundations** `Jan 2025`
