@@ -42,7 +42,6 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 | ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 🛠️ Technical Arsenal
 
 **Programming Languages**
@@ -52,6 +51,8 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Web Development**
 
@@ -62,7 +63,6 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 **Cloud / DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
-
 
 **Version Control**
 
@@ -78,14 +78,10 @@ Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engine
 
 **AI Tools / CLI**
 
-<div>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-<span> 
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-</span> 
- </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
