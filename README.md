@@ -11,11 +11,6 @@
 <a href="mailto:thinkyuvraj@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/ThinkYuvraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -207,6 +202,11 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 <div align="center">
 
 ### *"Transforming innovative ideas into scalable, practical software solutions."*
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
 
 <br/>
 
