@@ -36,33 +36,28 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🛠️ Programming Languages
+## 🛠️ Technical Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
+### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+### 🌐 Web & Full-Stack Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 
-### 🌐 Web Development
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
+### 🔄 Version Control & Infrastructure
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CodeCommit"/>
 
-### ☁️ Cloud / DevOps
+### 🛠️ Developer Environment & Utilities
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
-
-### 🔄 Version Control
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> <img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### 🛠️ Developer Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,npm,yarn&theme=dark" />
-
-### 🤖 AI Tools & CLIs
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+### 🤖 AI Engineering & Copilots
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -133,48 +128,43 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
     </tr>
   </thead>
   <tbody>
-    <!-- Education Rows -->
+    <!-- Education Section -->
     <tr>
-      <td><b>🏫 Education</b></td>
-      <td>🎓 <b>B.Tech in Computer Science & Engineering</b><br/><i>Amity University, Noida</i></td>
+      <td rowspan="3" valign="top"><b>🏫 Education</b></td>
+      <td>🎓 <b>B.Tech in Computer Science &amp; Engineering</b><br/><i>Amity University, Noida</i></td>
       <td><code>2022 – 2026</code></td>
     </tr>
     <tr>
-      <td><b>🏫 Education</b></td>
       <td>📘 <b>CBSE Class XII</b><br/><i>Delhi Public School, Meerut</i></td>
       <td><code>2022</code></td>
     </tr>
     <tr>
-      <td><b>🏫 Education</b></td>
       <td>📗 <b>CBSE Class X</b><br/><i>Delhi Public School, Meerut</i></td>
       <td><code>2020</code></td>
     </tr>
-    <!-- Certifications Rows -->
+    <!-- Research Section -->
     <tr>
-      <td><b>🏆 Certifications</b></td>
+      <td valign="top"><b>📄 Research</b></td>
+      <td>📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b><br/><i>Accepted &amp; Presented at IEEE/NIT Delhi IC2SDT 2025</i></td>
+      <td><code>2025</code></td>
+    </tr>
+    <!-- Certifications Section -->
+    <tr>
+      <td rowspan="4" valign="top"><b>🏆 Certifications</b></td>
       <td>☁️ <b>AWS Academy Cloud Foundations</b><br/><i>AWS Academy</i></td>
       <td><code>Jan 2025</code></td>
     </tr>
     <tr>
-      <td><b>🏆 Certifications</b></td>
       <td>🍃 <b>MongoDB Certified Developer Path</b><br/><i>MongoDB</i></td>
       <td><code>Jun 2025</code></td>
     </tr>
     <tr>
-      <td><b>🏆 Certifications</b></td>
       <td>💡 <b>Design Thinking: A Primer</b><br/><i>IIT Madras</i></td>
       <td><code>Feb 2024</code></td>
     </tr>
     <tr>
-      <td><b>🏆 Certifications</b></td>
       <td>🐍 <b>The Joy of Computing using Python</b><br/><i>IIT Ropar</i></td>
       <td><code>Oct 2024</code></td>
-    </tr>
-    <!-- Research Rows -->
-    <tr>
-      <td><b>📄 Research</b></td>
-      <td>📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b><br/><i>Accepted &amp; Presented at IEEE/NIT Delhi IC2SDT 2025</i></td>
-      <td><code>2025</code></td>
     </tr>
   </tbody>
 </table>
@@ -221,3 +211,4 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 </div>
+
