@@ -24,11 +24,15 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 📍 Based:     Noida, India
 ```
 
-##  Open to Collaborate On
+<br/>
 
-💻 **Full-Stack Web Applications** 
-⚙️ **Core Software Development** 
-☁️ **Cloud-Based & Serverless Solutions** 
+## 🤝 Open to Collaborate On
+
+| Topic | Description |
+|---|---|
+| 💻 **Full-Stack Web Applications** | End-to-end products, from database to UI |
+| ⚙️ **Core Software Development** | Clean, maintainable, well-architected systems |
+| ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -76,9 +80,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         </div>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
       </td>
     </tr>
     <tr>
@@ -89,9 +93,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         </div>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /><br/>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       </td>
     </tr>
     <tr>
@@ -102,10 +106,10 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         </div>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br/>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" /><br/>
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br/>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       </td>
     </tr>
   </tbody>
@@ -207,4 +211,3 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 </div>
-
