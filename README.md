@@ -197,8 +197,6 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
   <img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6" width="65%" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ThinkYuvraj&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="95%"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
