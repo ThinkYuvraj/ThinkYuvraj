@@ -114,24 +114,60 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 🎓 Education & Certifications
 
-### 🏫 Education
-* 🎓 **B.Tech in Computer Science & Engineering** &nbsp;·&nbsp; *Amity University, Noida* &nbsp;·&nbsp; `2022 – 2026`
-* 📘 **CBSE Class XII** &nbsp;·&nbsp; *Delhi Public School, Meerut* &nbsp;·&nbsp; `2022`
-* 📗 **CBSE Class X** &nbsp;·&nbsp; *Delhi Public School, Meerut* &nbsp;·&nbsp; `2020`
-
-<br/>
-
-### 🏆 Certifications
-* ☁️ **AWS Academy Cloud Foundations** &nbsp;·&nbsp; *AWS Academy* &nbsp;·&nbsp; `Jan 2025`
-* 🍃 **MongoDB Certified Developer Path** &nbsp;·&nbsp; *MongoDB* &nbsp;·&nbsp; `Jun 2025`
-* 💡 **Design Thinking: A Primer** &nbsp;·&nbsp; *IIT Madras* &nbsp;·&nbsp; `Feb 2024`
-* 🐍 **The Joy of Computing using Python** &nbsp;·&nbsp; *IIT Ropar* &nbsp;·&nbsp; `Oct 2024`
-
-<br/>
-
-### 📄 Research & Publications
-* 📝 **"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"**  
-  *Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025*
+<table width="100%">
+  <thead>
+    <tr align="left">
+      <th width="25%">Category</th>
+      <th width="55%">Details & Institution</th>
+      <th width="20%">Timeline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Education Rows -->
+    <tr>
+      <td><b>🏫 Education</b></td>
+      <td>🎓 <b>B.Tech in Computer Science & Engineering</b><br/><i>Amity University, Noida</i></td>
+      <td><code>2022 – 2026</code></td>
+    </tr>
+    <tr>
+      <td><b>🏫 Education</b></td>
+      <td>📘 <b>CBSE Class XII</b><br/><i>Delhi Public School, Meerut</i></td>
+      <td><code>2022</code></td>
+    </tr>
+    <tr>
+      <td><b>🏫 Education</b></td>
+      <td>📗 <b>CBSE Class X</b><br/><i>Delhi Public School, Meerut</i></td>
+      <td><code>2020</code></td>
+    </tr>
+    <!-- Certifications Rows -->
+    <tr>
+      <td><b>🏆 Certifications</b></td>
+      <td>☁️ <b>AWS Academy Cloud Foundations</b><br/><i>AWS Academy</i></td>
+      <td><code>Jan 2025</code></td>
+    </tr>
+    <tr>
+      <td><b>🏆 Certifications</b></td>
+      <td>🍃 <b>MongoDB Certified Developer Path</b><br/><i>MongoDB</i></td>
+      <td><code>Jun 2025</code></td>
+    </tr>
+    <tr>
+      <td><b>🏆 Certifications</b></td>
+      <td>💡 <b>Design Thinking: A Primer</b><br/><i>IIT Madras</i></td>
+      <td><code>Feb 2024</code></td>
+    </tr>
+    <tr>
+      <td><b>🏆 Certifications</b></td>
+      <td>🐍 <b>The Joy of Computing using Python</b><br/><i>IIT Ropar</i></td>
+      <td><code>Oct 2024</code></td>
+    </tr>
+    <!-- Research Rows -->
+    <tr>
+      <td><b>📄 Research</b></td>
+      <td>📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b><br/><i>Accepted &amp; Presented at IEEE/NIT Delhi IC2SDT 2025</i></td>
+      <td><code>2025</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
