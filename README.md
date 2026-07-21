@@ -116,7 +116,7 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
  
 <table width="100%">
 <tr>
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 ### 🏫 Education
  
 - 🎓 **B.Tech in Computer Science & Engineering** — Amity University, Noida `2022–2026`
@@ -136,6 +136,7 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
  
 <div align="justify">
 **"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"**
+<br/>
 Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025
  
 </div>
@@ -178,4 +179,4 @@ Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025
 <img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 </div>
- 
+
