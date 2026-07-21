@@ -19,7 +19,7 @@
 
 <div align="justify">
 
-Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
+Passionate **Full-Stack Developer** , **Frontend Specialist**, **Software Engineer** and **Cloud Enthusiast** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
 
 </div>
 
@@ -63,7 +63,6 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 
 <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
 
-`EC2` `Lambda` `S3` `RDS` `VPC` `IAM` `CloudFront` `CloudWatch` `Auto Scaling`
 
 **Version Control**
 
@@ -79,16 +78,14 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 
 **AI Tools / CLI**
 
+<div>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<span> 
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-
-**Core Concepts**
-
-- Object-Oriented Programming
-- Operating Systems
-- REST API
+</span> 
+ </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -210,7 +207,7 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/> -->
 
 ## 🔍 Currently Exploring
 
