@@ -208,8 +208,6 @@ Sprint coordination, task assignment, and pipeline analytics with role-based das
 <img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>
