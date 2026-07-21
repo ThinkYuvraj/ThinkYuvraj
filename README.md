@@ -135,6 +135,7 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
           📗 <b>CBSE Class X</b> &nbsp;·&nbsp; <code>2020</code><br/>
           <span style="font-size: 0.95em; color: #8b949e;"><i>Delhi Public School, Meerut</i> — Foundation in science, advanced mathematics, and elementary programming.</span>
         </p>
+          <br/> 
       </td>
     </tr>
     <tr style="background-color: #000000;">
@@ -144,6 +145,7 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
           📝 <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b> &nbsp;·&nbsp; <code>2025</code><br/>
           <span style="font-size: 0.95em; color: #8b949e;"><i>Accepted & Presented at IEEE/NIT Delhi IC2SDT 2025</i> — Engineered a stacked deep-learning sequence pipeline leveraging long-term historical records to predict erratic climate loops.</span>
         </p>
+        <br/> 
       </td>
     </tr>
     <tr style="background-color: #000000;">
@@ -155,7 +157,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
           <li>💡 <b>Design Thinking: A Primer</b> — <i>IIT Madras</i> (<code>Feb 2024</code>)</li>
           <li>🐍 <b>The Joy of Computing using Python</b> — <i>IIT Ropar</i> (<code>Oct 2024</code>)</li>
         </ul>
+          <br/> 
       </td>
+      
     </tr>
   </tbody>
 </table>
