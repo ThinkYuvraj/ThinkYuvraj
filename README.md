@@ -78,6 +78,7 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
           <b>✨ Key Highlights:</b> Dual-layer sequential predictions, interactive comparison graphs, and fallback configurations for active live streams.
         </p>
+        <br/> 
       </td>
     </tr>
     <tr style="background-color: #000000;">
@@ -92,6 +93,7 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
           <b>✨ Key Highlights:</b> Robust Socket.IO synchronization, whiteboard with full undo/redo states, and custom share security tokens.
         </p>
+        <br/> 
       </td>
     </tr>
     <tr style="background-color: #000000;">
@@ -106,6 +108,7 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
         <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
           <b>✨ Key Highlights:</b> Role-based developer dashboards, Kanban board with state memory caching, and automatic burndown analytics.
         </p>
+        <br/> 
       </td>
     </tr>
   </tbody>
