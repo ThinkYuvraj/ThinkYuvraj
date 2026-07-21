@@ -45,23 +45,52 @@ Passionate **Full-Stack Developer** and **Software Engineer** currently pursuing
 
 ## 🛠️ Technical Arsenal
 
-**Languages**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-**Cloud, DevOps & Tools**
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,idea,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+**Cloud / DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
+
+`EC2` `Lambda` `S3` `RDS` `VPC` `IAM` `CloudFront` `CloudWatch` `Auto Scaling`
+
+**Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,jupyter,linux,npm,yarn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+
+**AI Tools / CLI**
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blackbox-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+
+**Core Concepts**
+
+- Object-Oriented Programming
+- Operating Systems
+- REST API
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
