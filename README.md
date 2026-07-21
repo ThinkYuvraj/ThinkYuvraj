@@ -114,35 +114,24 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 
 ## 🎓 Education & Certifications
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-  <h3>🏫 Education</h3>
-  <ul>
-    <li>🎓 <b>B.Tech in Computer Science & Engineering</b><br/>Amity University, Noida<br/><code>2022–2026</code></li>
-    <li>📘 <b>CBSE Class XII</b><br/>Delhi Public School, Meerut<br/><code>2022</code></li>
-    <li>📗 <b>CBSE Class X</b><br/>Delhi Public School, Meerut<br/><code>2020</code></li>
-  </ul>
-</td>
-<td width="33%" valign="top">
-  <h3>🏆 Certifications</h3>
-  <ul>
-    <li>☁️ <b>AWS Academy Cloud Foundations</b><br/><code>Jan 2025</code></li>
-    <li>🍃 <b>MongoDB Certified Developer Path</b><br/><code>Jun 2025</code></li>
-    <li>💡 <b>Design Thinking: A Primer</b><br/>IIT Madras · <code>Feb 2024</code></li>
-    <li>🐍 <b>The Joy of Computing using Python</b><br/>IIT Ropar · <code>Oct 2024</code></li>
-  </ul>
-</td>
-<td width="33%" valign="top">
-  <h3>📄 Research</h3>
-  <div align="justify">
-    <b>"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"</b>
-    <br/><br/>
-    <i>Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025</i>
-  </div>
-</td>
-</tr>
-</table>
+### 🏫 Education
+* 🎓 **B.Tech in Computer Science & Engineering** &nbsp;·&nbsp; *Amity University, Noida* &nbsp;·&nbsp; `2022 – 2026`
+* 📘 **CBSE Class XII** &nbsp;·&nbsp; *Delhi Public School, Meerut* &nbsp;·&nbsp; `2022`
+* 📗 **CBSE Class X** &nbsp;·&nbsp; *Delhi Public School, Meerut* &nbsp;·&nbsp; `2020`
+
+<br/>
+
+### 🏆 Certifications
+* ☁️ **AWS Academy Cloud Foundations** &nbsp;·&nbsp; *AWS Academy* &nbsp;·&nbsp; `Jan 2025`
+* 🍃 **MongoDB Certified Developer Path** &nbsp;·&nbsp; *MongoDB* &nbsp;·&nbsp; `Jun 2025`
+* 💡 **Design Thinking: A Primer** &nbsp;·&nbsp; *IIT Madras* &nbsp;·&nbsp; `Feb 2024`
+* 🐍 **The Joy of Computing using Python** &nbsp;·&nbsp; *IIT Ropar* &nbsp;·&nbsp; `Oct 2024`
+
+<br/>
+
+### 📄 Research & Publications
+* 📝 **"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"**  
+  *Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
