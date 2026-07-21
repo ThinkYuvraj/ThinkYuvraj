@@ -24,15 +24,11 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 📍 Based:     Noida, India
 ```
 
-<br/>
+##  Open to Collaborate On
 
-## 🤝 Open to Collaborate On
-
-| Topic | Description |
-|---|---|
-| 💻 **Full-Stack Web Applications** | End-to-end products, from database to UI |
-| ⚙️ **Core Software Development** | Clean, maintainable, well-architected systems |
-| ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
+💻 **Full-Stack Web Applications** 
+⚙️ **Core Software Development** 
+☁️ **Cloud-Based & Serverless Solutions** 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
