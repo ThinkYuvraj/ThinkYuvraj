@@ -1,134 +1,181 @@
-
-# Hi there, I'm Yuvraj Singh 👋
-### Aspiring Software Engineer | Full-Stack Developer | Frontend Specialist
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj%20Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yuvrajsingh1) [![Email](https://img.shields.io/badge/Email-thinkyuvraj%40gmail.com-red?style=flat&logo=gmail)](mailto:thinkyuvraj@gmail.com)
-
----
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Turning+ideas+into+working+software;Exploring+Cloud+%2B+System+Design;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
+<br/>
+<a href="https://my-portfolio-jc50.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/yuvrajsingh1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:thinkyuvraj@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/ThinkYuvraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+ 
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 ## 🚀 About Me
-
-I am a passionate  **Full-Stack Developer** and **Software Engineer** currently pursuing a **Bachelor of Technology in Computer Science Engineering** at **Amity University, Noida** (2022 - 2026).
-
-🌐 **Portfolio Website:** [my-portfolio-jc50.onrender.com](https://my-portfolio-jc50.onrender.com/)
-
-*   💡 **My Focus:** Building scalable applications, intelligent systems, and impactful digital experiences using clean, efficient, and maintainable code.
-*   🧠 **Passion Areas:** Software development, Full-Stack Web Development, Distributed Cloud Computing, and Artificial Intelligence (AI/ML) integrations.
-*   ⚡ **Drive:** I love transforming innovative ideas into practical, high-performance software solutions, resolving complex technical challenges, and continuously learning emerging tech stacks.
-  
----
-
+ 
+<div align="justify">
+Passionate **Full-Stack Developer**, **Frontend Specialist**, **Software Engineer** and **Cloud Enthusiast** currently pursuing a **B.Tech in Computer Science Engineering** at **Amity University, Noida** *(2022 – 2026)*. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
+ 
+</div>
+```yaml
+👤 Name:      Yuvraj Singh
+🎯 Focus:     Scalable applications · Impactful digital experiences
+💡 Passions:  Full-Stack Web Dev · Distributed Cloud Computing
+⚡ Drive:     Turning innovative ideas into practical, high-performance software
+📍 Based:     Noida, India
+```
+ 
+<br/>
 ## 🤝 Open to Collaborate On
-* 💻 Full-Stack Web Applications
-* ⚙️ Core Software Development Projects
-* ☁️ Cloud-Based & Serverless Solutions
-* 🧠 AI/ML Integrated Systems & Intelligent Chatbots
-  
- ---
-
-## 🛠️ Technical Stack & Skills
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Web & Backend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
+ 
+| | |
+|---|---|
+| 💻 **Full-Stack Web Applications** | End-to-end products, from database to UI |
+| ⚙️ **Core Software Development** | Clean, maintainable, well-architected systems |
+| ☁️ **Cloud-Based & Serverless Solutions** | Scalable infrastructure design |
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## 🛠️ Programming Languages
+ 
+<img src="https://skillicons.dev/icons?i=java,py,js,ts&theme=dark" />
+**Databases**
+ 
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+**Web Development**
+ 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
+**Cloud / DevOps**
+ 
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
+**Version Control**
+ 
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+**Developer Tools**
+ 
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,npm,yarn&theme=dark" />
+**AI Tools / CLI**
+ 
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 ## 📈 Featured Projects
-
-### **Weatherly** – *Hybrid Deep Learning Weather Forecasting System*
-
-*   **Description:** A hybrid weather forecasting model utilizing stacked **LSTM** and **GRU** recurrent neural network layers trained on climate datasets to capture long-term and short-term patterns.
-*   **Key Accomplishments:**
-    *   Achieved an **RMSE of 1.23** and **MAE of 0.89** over 50 epochs using Random Forest-based early-stopping constraint.
-    *   Integrated a Generative AI-powered chatbot assistant (utilizing Gemini API) that translates raw forecasting data into simplified, non-numerical natural-language weather insights.
-*   **Tech Stack:** `Python`, `TensorFlow/Keras`, `Streamlit`, `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Gemini API`
-
-### **Team Collaboration Workspace** – *Real-time Collaborative Editing Platform*
-
-*   **Description:** A high-performance, real-time web workspace designed for simultaneous document edits, canvas whiteboard drawings, and group chats.
-*   **Key Accomplishments:**
-    *   Enabled instant real-time synchronization between active users via `Socket.IO` event flows.
-    *   Built a highly scalable backend architecture utilizing RESTful APIs, Node.js, and MongoDB.
-*   **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `Socket.IO`, `MongoDB`, `Tailwind CSS`
-
-### **Team Task Manager** – *Full-Stack Project Management Portal*
-
-*   **Description:** A project management tool designed to help software engineering squads coordinate sprints, assign tasks, and monitor pipeline analytics.
-*   **Key Accomplishments:**
-    *   Implemented secure role-based dashboard controls and visual workflow boards.
-    *   Integrated intelligent AI-driven productivity assistance and task prioritization modules to maximize team efficiency.
-*   **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Tailwind CSS`, `Socket.IO`
-
----
-
+ 
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+### 🌦️ Weatherly
+<i>Hybrid Deep Learning Weather Forecasting</i>
+<br/><br/>
+ 
+<div align="justify">
+Stacked **LSTM/GRU** neural network trained on climate data — **RMSE 1.23**, **MAE 0.89** over 50 epochs, forecasting short and long-term weather patterns.
+ 
+</div>
+<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+ 
+</td>
+<td width="33%" valign="top">
+### 🤝 Team Workspace
+<i>Real-time Collaborative Editing Platform</i>
+<br/><br/>
+ 
+<div align="justify">
+Simultaneous document edits, whiteboard drawing, and group chat with instant sync via **Socket.IO**, backed by a scalable REST API.
+ 
+</div>
+<br/>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+ 
+</td>
+<td width="33%" valign="top">
+### 📋 Task Manager
+<i>Full-Stack Project Management Portal</i>
+<br/><br/>
+ 
+<div align="justify">
+Sprint coordination, task assignment, and pipeline analytics with role-based dashboards and visual workflow boards.
+ 
+</div>
+<br/>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 ## 🎓 Education & Certifications
-
-### **Education**
-
-*   **B.Tech. in Computer Science Engineering** | Amity University, Noida (2022 - 2026) 
-*   **CBSE XII (Senior Secondary)** | Delhi Public School, Meerut (2022)
-*   **CBSE X (Secondary)** | Delhi Public School, Meerut (2020)
-
-### **Research Publications**
-
-*   📄 **Research Paper:** *"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"* — Accepted & presented at the **IEEE/NIT Delhi IC2SDT 2025 Conference**.
-
-### **Certifications**
-
-*   ☁️ **AWS Academy Graduate** – AWS Academy Cloud Foundations (Jan 2025)
-*   🍃 **MongoDB Certified Developer Path** – MongoDB Developer Academy (Jun 2025)
-*   💡 **Design Thinking: A Primer** – NPTEL | IIT Madras (Feb 2024)
-*   🐍 **Joy of Computing using Python** – NPTEL | IIT Ropar (Oct 2024)
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
+ 
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
+### 🏫 Education
+ 
+- 🎓 **B.Tech in Computer Science & Engineering** — Amity University, Noida `2022–2026`
+- 📘 **CBSE Class XII** — Delhi Public School, Meerut `2022`
+- 📗 **CBSE Class X** — Delhi Public School, Meerut `2020`
+</td>
+<td width="33%" valign="top">
+### 🏆 Certifications
+ 
+- ☁️ **AWS Academy Cloud Foundations** `Jan 2025`
+- 🍃 **MongoDB Certified Developer Path** `Jun 2025`
+- 💡 **Design Thinking: A Primer** — IIT Madras `Feb 2024`
+- 🐍 **The Joy of Computing using Python** — IIT Ropar `Oct 2024`
+</td>
+<td width="33%" valign="top">
+### 📄 Research
+ 
+<div align="justify">
+**"A Novice Approach to Weather Forecasting Using Hybrid Predictive Methodologies in Machine Learning"**
+Accepted and Presented at IEEE/NIT Delhi IC2SDT 2025
+ 
+</div>
+</td>
+</tr>
+</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## 🔥 GitHub Analytics
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ThinkYuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkYuvraj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" width="42%" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=ThinkYuvraj&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6" width="65%" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThinkYuvraj&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff" width="95%" />
+<br/><br/>
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=ThinkYuvraj&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="95%"/>
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 ## 🔍 Currently Exploring
-
-*   📐 System Design & Highly Scalable Architectures
-*   🏗️ Cloud Infrastructure & DevOps CI/CD Practices
-*   🤖 Integrating Generative AI & Large Language Models in web applications
-
----
-
-## 🔗 Connect With Me
-
-*   📧 **Email:** [thinkyuvraj@gmail.com](mailto:thinkyuvraj@gmail.com)
-*   💼 **LinkedIn:** [linkedin.com/in/yuvrajsingh1](https://www.linkedin.com/in/yuvrajsingh1)
-*   🐙 **GitHub:** [github.com/ThinkYuvraj](https://github.com/ThinkYuvraj)
-
----
-
-> **"Transforming innovative ideas into scalable, practical software solutions."**
+ 
+- 📐 **System Design** & Highly Scalable Architectures
+- 🏗️ **Cloud & DevOps** — CI/CD Practices
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## 🔗 Let's Connect
+ 
+<div align="justify">
+📧 **Email:** [thinkyuvraj@gmail.com](mailto:thinkyuvraj@gmail.com) &nbsp;·&nbsp; 💼 **LinkedIn:** [linkedin.com/in/yuvrajsingh1](https://www.linkedin.com/in/yuvrajsingh1) &nbsp;·&nbsp; 🐙 **GitHub:** [github.com/ThinkYuvraj](https://github.com/ThinkYuvraj)
+ 
+</div>
+<br/>
+<div align="center">
+### *"Transforming innovative ideas into scalable, practical software solutions."*
+ 
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+</div>
+ 
