@@ -198,4 +198,3 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 </div>
-
