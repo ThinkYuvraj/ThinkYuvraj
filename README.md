@@ -22,7 +22,7 @@
 📍 Based:     Noida, India
 ```
 <div align="justify">
-Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software Engineer</b>, and <b>Cloud Enthusiast</b> currently pursuing a <b>B.Tech in Computer Science Engineering</b> at <b>Amity University, Noida</b> <i>(2022 – 2026)</i>. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
+Passionate <b>Full-Stack Developer</b>,<b>Software Engineer</b>, and <b>Cloud Enthusiast</b> graduate in <b>B.Tech in Computer Science Engineering</b> at <b>Amity University, Noida</b> <i>(2022 – 2026)</i>. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing appl. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
 </div>
 
 <br/> 
@@ -32,8 +32,9 @@ Passionate <b>Full-Stack Developer</b>, <b>Frontend Specialist</b>, <b>Software 
 ## 🤝 Open to Collaborate On
 
 * 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
-* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
 * ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
+* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
