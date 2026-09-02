@@ -8,7 +8,7 @@
   <a href="https://github.com/ThinkYuvraj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 </div>
 
-<br/> 
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
