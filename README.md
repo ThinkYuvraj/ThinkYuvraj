@@ -63,60 +63,6 @@ Passionate <b>Full-Stack Developer</b>,<b>Software Engineer</b>, and <b>Cloud En
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📈 Featured Projects
-
-<table width="100%" style="background-color: #000000; border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
-  <tbody>
-    <tr style="background-color: #000000;">
-      <td style="background-color: #000000; border: 1px solid #30363d; padding: 24px;">
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #ffffff;">🌦️ Weatherly — <i>Hybrid Deep Learning Predictor</i></h3>
-        <p align="justify" style="color: #c9d1d9; margin-top: 0; margin-bottom: 16px; line-height: 1.6;">
-          Stacked <b>LSTM/GRU</b> neural network trained on multi-decade climate records — achieved a highly competitive <b>RMSE of 1.23</b> and <b>MAE of 0.89</b> over 50 rigorous epochs. Predicts erratic short- and long-term local weather fluctuations with outstanding precision.
-        </p>
-        <p style="margin-top: 0; margin-bottom: 8px; color: #c9d1d9; line-height: 1.5;">
-          <b>🛠️ Tech Stack:</b> Python · TensorFlow · Streamlit
-        </p>
-        <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
-          <b>✨ Key Highlights:</b> Dual-layer sequential predictions, interactive comparison graphs, and fallback configurations for active live streams.
-        </p>
-        <br/> 
-      </td>
-    </tr>
-    <tr style="background-color: #000000;">
-      <td style="background-color: #000000; border: 1px solid #30363d; padding: 24px;">
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #ffffff;">🤝 Team Workspace — <i>Real-Time Collaboration Engine</i></h3>
-        <p align="justify" style="color: #c9d1d9; margin-top: 0; margin-bottom: 16px; line-height: 1.6;">
-          Simultaneous multi-user document editing, dynamic whiteboard vectors, and unified group communication. Built a high-performance REST API and real-time state engine to keep syncing latency <b>under 45ms</b>.
-        </p>
-        <p style="margin-top: 0; margin-bottom: 8px; color: #c9d1d9; line-height: 1.5;">
-          <b>🛠️ Tech Stack:</b> React · Node.js · Express · MongoDB
-        </p>
-        <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
-          <b>✨ Key Highlights:</b> Robust Socket.IO synchronization, whiteboard with full undo/redo states, and custom share security tokens.
-        </p>
-        <br/> 
-      </td>
-    </tr>
-    <tr style="background-color: #000000;">
-      <td style="background-color: #000000; border: 1px solid #30363d; padding: 24px;">
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #ffffff;">📋 Task Manager — <i>Agile Project Management Portal</i></h3>
-        <p align="justify" style="color: #c9d1d9; margin-top: 0; margin-bottom: 16px; line-height: 1.6;">
-          End-to-end sprint coordination, automated task assignments, and visual pipeline analytics. Designed to minimize tracking overheads for developer squads with highly interactive drag-and-drop mechanics.
-        </p>
-        <p style="margin-top: 0; margin-bottom: 8px; color: #c9d1d9; line-height: 1.5;">
-          <b>🛠️ Tech Stack:</b> React · Node.js · Express · Tailwind CSS · MongoDB
-        </p>
-        <p style="margin-top: 0; margin-bottom: 0; color: #c9d1d9; line-height: 1.5;">
-          <b>✨ Key Highlights:</b> Role-based developer dashboards, Kanban board with state memory caching, and automatic burndown analytics.
-        </p>
-        <br/> 
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 🎓 Education & Academics
 
 <table width="100%" style="background-color: #000000; border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
