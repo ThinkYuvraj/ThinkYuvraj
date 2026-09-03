@@ -21,20 +21,8 @@
 ⚡ Drive:     Turning innovative ideas into practical, high-performance software
 📍 Based:     Noida, India
 ```
-<div align="justify">
-Passionate <b>Full-Stack Developer</b>,<b>Software Engineer</b>, and <b>Cloud Enthusiast</b> graduate in <b>B.Tech in Computer Science Engineering</b> at <b>Amity University, Noida</b> <i>(2022 – 2026)</i>. I focus on building scalable applications and impactful digital experiences using clean, efficient, and maintainable code — with a strong interest in full-stack web development and distributed cloud computing appl. I enjoy transforming innovative ideas into practical, high-performance software solutions and continuously learning emerging tech stacks.
-</div>
 
 <br/> 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🤝 Open to Collaborate On
-
-* 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
-* ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
-* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -134,6 +122,15 @@ Passionate <b>Full-Stack Developer</b>,<b>Software Engineer</b>, and <b>Cloud En
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yuvrajsingh1" target="_blank">linkedin.com/in/yuvrajsingh1</a> &nbsp;|&nbsp;
   🐙 <b>GitHub:</b> <a href="https://github.com/ThinkYuvraj" target="_blank">github.com/ThinkYuvraj</a>
 </div>
+
+<br/>
+
+## 🤝 Open to Collaborate On
+
+* 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
+* ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
+* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
+
 
 <br/>
 
