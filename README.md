@@ -112,6 +112,15 @@
 </div>
 
 <br/> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🤝 Open to Collaborate On
+
+* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
+* 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
+* ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -124,16 +133,6 @@
 </div>
 
 <br/>  
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🤝 Open to Collaborate On
-
-* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
-* 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
-* ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
-
-<br/>
 
 <div align="center">
   <br/>
