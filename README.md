@@ -17,8 +17,8 @@
 ```yaml
 👤 Name:      Yuvraj Singh
 🎯 Focus:     Scalable applications · Impactful digital experiences
-💡 Passions:  Full-Stack Web Dev · Distributed Cloud Computing 
-⚡ Drive:     Turning innovative ideas into practical, high-performance software
+💡 Passions:  Full-Stack Development · Distributed Cloud Computing 
+⚡ Drive:     Turning innovative ideas into practical, High-performance software, Making Remarkable Contributions
 📍 Based:     Noida, India
 ```
 
@@ -123,19 +123,19 @@
   🐙 <b>GitHub:</b> <a href="https://github.com/ThinkYuvraj" target="_blank">github.com/ThinkYuvraj</a>
 </div>
 
-<br/>
+<br/>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🤝 Open to Collaborate On
 
+* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
 * 💻 **Full-Stack Web Applications** — End-to-end software products, from database architectures to optimized user interfaces.
 * ☁️ **Cloud-Based & Serverless Solutions** — Deploying microservices, containerizing software, and architecting scalable cloud setups.
-* ⚙️ **Core Software Development** — Designing clean, modular, and maintainable systems utilizing modern design patterns.
-
 
 <br/>
 
 <div align="center">
-  <h3><i>"Transforming innovative ideas into scalable, practical software solutions."</i></h3>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ThinkYuvraj&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ThinkYuvraj?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
