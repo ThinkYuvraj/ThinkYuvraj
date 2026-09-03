@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Yuvraj%20Singh&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Turning+ideas+into+working+software;Exploring+Cloud+%2B+System+Design;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
   <br/>
   <a href="https://my-portfolio-jc50.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
