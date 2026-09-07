@@ -94,8 +94,6 @@
         </ul>
           <br/> 
       </td>
-      
-    </tr>
   </tbody>
 </table>
 
