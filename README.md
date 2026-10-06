@@ -16,9 +16,9 @@
 
 ```yaml
 👤 Name:      Yuvraj Singh
-🎯 Focus:     Scalable applications · Impactful digital experiences
+🎯 Focus:     Scalable applications · Impactful Digital Experiences
 💡 Passions:  Full-Stack Development · Distributed Cloud Computing 
-⚡ Drive:     Turning innovative ideas into practical, High-performance software, Making Remarkable Contributions
+⚡ Drive:     Turning Innovative Ideas into practical, High-performance Software, Making Remarkable Contributions
 📍 Based:     Noida, India
 ```
 
