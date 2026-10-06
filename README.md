@@ -15,11 +15,11 @@
 ## 🚀 About Me
 
 ```yaml
-👤 Name:      Yuvraj Singh
+👤 Name:       Yuvraj Singh
 🎯 Focus:     Scalable applications · Impactful Digital Experiences
-💡 Passions:  Full-Stack Development · Distributed Cloud Computing 
+💡 Passions:   Full-Stack Development · Distributed Cloud Computing 
 ⚡ Drive:     Turning Innovative Ideas into practical, High-performance Software, Making Remarkable Contributions
-📍 Based:     Noida, India
+📍 Based:      Noida, India
 ```
 
 <br/> 
